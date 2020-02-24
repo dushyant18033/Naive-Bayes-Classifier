@@ -1,0 +1,36 @@
+E:\IIITD works\Sem 2\P&S\2018033_Dushyant_P&S_Assignment3>python MainScript.py
+===========MONKS-1===========
+Correctly classified: 308
+Total test samples: 432
+Accuracy: 0.7129629629629629
+=============================
+===========MONKS-2===========
+Correctly classified: 266
+Total test samples: 432
+Accuracy: 0.6157407407407407
+=============================
+===========MONKS-3===========
+Correctly classified: 420
+Total test samples: 432
+Accuracy: 0.9722222222222222
+=============================
+=========TIC-TAC-TOE=========
+Correctly classified:  665
+Total test samples:  958
+Accuracy:  0.6941544885177453
+=============================
+============HEART============
+Correctly classified: 145
+Total test samples: 187
+Accuracy: 0.7754010695187166
+=============================
+===========SOYBEAN===========
+Correctly classified: 43
+Total test samples: 47
+Accuracy: 0.9148936170212766
+=============================
+=======LANDING-CONTROL=======
+Correctly classified: 5
+Total test samples: 15
+Accuracy: 0.3333333333333333
+=============================
